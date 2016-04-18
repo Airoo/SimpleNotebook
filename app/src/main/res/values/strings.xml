@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Блокнот</string>
+    <string name="opendrawer">Open</string>
+    <string name="closedrawer">Close</string>
+    <string name="action_search">Setings</string>
+
+</resources>
